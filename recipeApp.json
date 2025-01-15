@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Vegetarian Chili",
+    "id": 1,
+    "ingredients": [
+      {
+        "NAME": "Black Beans",
+        "AMOUNT": "1 can, drained and rinsed",
+        "price": 10
+      },
+      {
+        "NAME": "Kidney Beans",
+        "AMOUNT": "1 can, drained and rinsed",
+        "price": 12
+      },
+      {
+        "NAME": "Tomatoes",
+        "AMOUNT": "1 can, diced",
+        "price": 8
+      },
+      {
+        "NAME": "Onion",
+        "AMOUNT": "1, chopped",
+        "price": 5
+      },
+      {
+        "NAME": "Bell Pepper",
+        "AMOUNT": "1, chopped",
+        "price": 6
+      },
+      {
+        "NAME": "Garlic",
+        "AMOUNT": "3 cloves, minced",
+        "price": 3
+      },
+      {
+        "NAME": "Chili Powder",
+        "AMOUNT": "2 tbsp",
+        "price": 15
+      },
+      {
+        "NAME": "Cumin",
+        "AMOUNT": "1 tbsp",
+        "price": 10
+      },
+      {
+        "NAME": "Vegetable Broth",
+        "AMOUNT": "2 cups",
+        "price": 20
+      }
+    ],
+    "Instructions": "Sauté onion, bell pepper, and garlic; add beans, tomatoes, spices, and broth; simmer until flavors meld."
+  }
+]
