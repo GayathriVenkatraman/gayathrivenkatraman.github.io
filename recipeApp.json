@@ -3,19 +3,19 @@
     "id": 1,
     "title": "Paneer Butter Masala",
     "ingredients": [
-      { "amount": "250g", "name": "paneer" },
-      { "amount": "1 cup", "name": "tomato puree" },
-      { "amount": 1, "name": "onion finely chopped" },
-      { "amount": "2 cloves", "name": "garlic" },
-      { "amount": "1/2 cup", "name": "cashews soaked" },
-      { "amount": "1/4 cup", "name": "cream" },
-      { "amount": "1 tsp", "name": "garam masala" },
-      { "amount": "1 tsp", "name": "cumin powder" },
-      { "amount": "1 tsp", "name": "coriander powder" },
-      { "amount": "1/2 tsp", "name": "turmeric" },
-      { "amount": "to taste", "name": "Salt " },
-      { "amount": "2 tbsp ", "name": "butter" },
-      { "amount": "handful", "name": "coriander leaves for garnish" }
+      { "name": "paneer", "amount": "250g" },
+      { "name": "tomato puree", "amount": "1 cup" },
+      { "name": "onion finely chopped", "amount": 1 },
+      { "name": "garlic", "amount": "2 cloves" },
+      { "name": "cashews soaked", "amount": "1/2 cup" },
+      { "name": "cream", "amount": "1/4 cup" },
+      { "name": "garam masala", "amount": "1 tsp" },
+      { "name": "cumin powder", "amount": "1 tsp" },
+      { "name": "coriander powder", "amount": "1 tsp" },
+      { "name": "turmeric", "amount": "1/2 tsp" },
+      { "name": "Salt ", "amount": "to taste" },
+      { "name": "butter", "amount": "2 tbsp " },
+      { "name": "coriander leaves for garnish", "amount": "handful" }
     ],
     "description": "1. Sauté onions and garlic in butter until golden brown.\n2. Add tomato puree, cashews, and spices. Cook until the oil separates.\n3. Blend the mixture into a smooth paste. Return it to the pan.\n4. Add paneer cubes and cream. Simmer until the paneer is heated through.\n5. Garnish with fresh coriander leaves and serve with naan or rice.",
     "picture_url": "https://healthynibblesandbits.com/wp-content/uploads/2019/07/Paneer-Tikka-Masala-FF3.jpg"
@@ -24,12 +24,12 @@
     "id": 2,
     "title": "Margherita Pizza",
     "ingredients": [
-      { "amount": "250g", "name": "Pizza dough" },
-      { "amount": "1/2 cup", "name": " tomato sauce" },
-      { "amount": "1/4 cup", "name": "mozzarella cheese" },
-      { "amount": "to taste", "name": "basil leaves" },
-      { "amount": "1/2 tsp", "name": "Olive oil" },
-      { "amount": "to taste", "name": "Salt " }
+      { "name": "Pizza dough", "amount": "250g" },
+      { "name": " tomato sauce", "amount": "1/2 cup" },
+      { "name": "mozzarella cheese", "amount": "1/4 cup" },
+      { "name": "basil leaves", "amount": "to taste" },
+      { "name": "Olive oil", "amount": "1/2 tsp" },
+      { "name": "Salt ", "amount": "to taste" }
     ],
     "description": "1. Roll out pizza dough and spread tomato sauce.\n2. Add slices of fresh mozzarella and sprinkle with salt.\n3. Bake until crust is golden and cheese is bubbly.\n4. Garnish with fresh basil leaves and drizzle with olive oil.",
     "picture_url": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg?auto=compress,format"
