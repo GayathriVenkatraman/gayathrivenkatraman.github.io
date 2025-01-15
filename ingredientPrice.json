@@ -1,4 +1,4 @@
 {
-  "Paneer": { "price": 19, "currency": "DKK" },
-  "Garlic": { "price": 12, "currency": "DKK" }
+  "paneer": { "price": 19, "currency": "DKK" },
+  "garlic": { "price": 12, "currency": "DKK" }
 }
