@@ -1,0 +1,7 @@
+[
+  {
+    "ingredient": "paneer",
+    "priceData": { "price": 19, "currency": "DKK" }
+  },
+  { "ingredient": "garlic", "priceData": { "price": 12, "currency": "DKK" } }
+]
