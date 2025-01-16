@@ -1,4 +1,6 @@
 {
   "paneer": { "price": 19, "currency": "DKK" },
-  "garlic": { "price": 12, "currency": "DKK" }
+  "garlic": { "price": 12, "currency": "DKK" },
+  "tomato sauce": { "price": 25, "currency": "DKK" },
+  "salt": { "price": 15, "currency": "DKK" }
 }
