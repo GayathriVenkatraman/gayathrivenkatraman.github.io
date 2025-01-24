@@ -51,7 +51,6 @@
   {
     "id": 3,
     "title": "Gulab Jamun",
-    "picture_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fc2.staticflickr.com%2F6%2F5559%2F30562381266_8994c463dd_z.jpg&tbnid=1byBguk9ArC-sM&vet=12ahUKEwiF_POvjNaDAxUqDBAIHXA9CQoQMygcegUIARDJAQ..i&imgrefurl=https%3A%2F%2Fwww.chitrasfoodbook.com%2F2016%2F10%2Fgulab-jamun-recipe-using-instant-mix.html&docid=kgSj79Z8hJliDM&w=499&h=640&q=image%20of%20gulab%20jamun&client=firefox-b-d&ved=2ahUKEwiF_POvjNaDAxUqDBAIHXA9CQoQMygcegUIARDJAQ",
     "ingredients": [
       { "name": "milk powder", "amount": "1 cup" },
       { "name": "ghee", "amount": "2 tablespoons" },
@@ -59,6 +58,7 @@
       { "name": "sugar", "amount": "1 cup" },
       { "name": "cardamom", "amount": "1/2 teaspoon" }
     ],
-    "description": "Mix milk powder, ghee, and milk to form a dough. Shape the dough into small balls. Deep-fry the balls until golden brown. Prepare sugar syrup with sugar and cardamom. Soak the fried balls in the sugar syrup."
+    "description": "Mix milk powder, ghee, and milk to form a dough. Shape the dough into small balls. Deep-fry the balls until golden brown. Prepare sugar syrup with sugar and cardamom. Soak the fried balls in the sugar syrup.",
+    "picture_url": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/gulab-jamun.png"
   }
 ]
