@@ -33,5 +33,19 @@
     ],
     "description": "Roll out pizza dough and spread tomato sauce. Add slices of fresh mozzarella and sprinkle with salt. Bake until crust is golden and cheese is bubbly. Garnish with fresh basil leaves and drizzle with olive oil.",
     "picture_url": "https://images.prismic.io/eataly-us/ed3fcec7-7994-426d-a5e4-a24be5a95afd_pizza-recipe-main.jpg?auto=compress,format"
+  },
+  {
+    "id": 3,
+    "title": "Pancake",
+    "ingredients": [
+      { "name": "flour", "amount": "1 cup" },
+      { "name": "baking powder", "amount": "1 teaspoon" },
+      { "name": "sugar", "amount": "2 tablespoons" },
+      { "name": "salt", "amount": "1/2 teaspoon" },
+      { "name": "milk", "amount": "1 cup" },
+      { "name": "egg", "amount": "1" }
+    ],
+    "description": "Sift the dry ingredients together. Make a well, then add the wet ingredients. Stir to combine. Scoop the batter into a hot griddle or pan. Cook for two to three minutes, then flip. Continue cooking until brown on both sides.",
+    "picture_url": "https://lilluna.com/wp-content/uploads/2022/09/easy-pancakes3-resize-10.jpg"
   }
 ]
